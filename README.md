@@ -7,25 +7,25 @@ Une description textuelle couramment utilisée se compose de trois parties.
 
 La première partie permet d'identifier le cas, elle doit contenir les informations qui suivent.
 
-#Nom :
+# Nom :
 uploader un media
 Objectif :
 les contributeur envoient un media ou des medias au site 
-##Acteurs principaux :
+## Acteurs principaux :
 contributor
 systeme 
 Dates :
 15/09/2021 date de but 
-##Responsable :
+## Responsable :
 mr samb.
-##Version :
+## Version :
 version Beta
 
 
-##Les préconditions :
+## Les préconditions :
 contributor is registred 
 page Contribotor => Upload 
-##Des scénarii :
+## Des scénarii :
 1.contirbuteur loggé
 2.contributeur charge en lots ou une par une en drap en drop
 3.le systeme valide la taille l'orientaione le poid la durée du media
@@ -48,6 +48,6 @@ page Contribotor => Upload
 10. soumission des données a l'admin
 9
 
-##Des postconditions :
+## Des postconditions :
 elles décrivent l'état du système à l'issue des différents scénarii.
 La troisième partie de la description d'un cas d'utilisation est une rubrique optionnelle. Elle contient généralement des spécifications non fonctionnelles (spécifications techniques…). Elle peut éventuellement contenir une description des besoins en termes d'interface graphique.
