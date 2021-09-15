@@ -22,21 +22,21 @@ page Contribotor => Upload
 1. contirbuteur loggé
 2. contributeur charge en lots ou une par une en drap en drop
 3. le systeme valide la taille l'orientaione le poid la durée du media
-		1. le systeme valide => stockage des medias
-		2. le systeme refuse =>renvoie etape 2 
+	1. le systeme valide => stockage des medias
+	2. le systeme refuse =>renvoie etape 2 
 4. le contributeur rempli les champs du formulaire (mots clé =>voir systeme de mots clé,category titre etc) 
 5. administrator valide les mots clé (a voir trop d'etape)
-6. le systeme demande si photo de face 
-  1. Oui demande d'autorisation droit a l'image
-  2. upload autorisation 
-  3. attente validation
-  4. soummission contrat de vente medias
+6. le systeme demande si photo de face 	
+	 1. Oui demande d'autorisation droit a l'image
+ 	 2. upload autorisation 
+  	3. attente validation
+  	4. soummission contrat de vente medias
 6.  non
- 1. soummission contrat de vente medias 
+ 	1. soummission contrat de vente medias 
 7. validation de données du formulaire par systeme front
 8. soumission du formulaire
 9.  A verification formulaire coté back validation données 
- 1. ok => inscription en bd 
+	 1. ok => inscription en bd 
 9. B false retour etape 7
 10. soumission des données a l'admin
 
