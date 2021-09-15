@@ -1,6 +1,6 @@
 # Syteme Upload Medias
 # Nom :
-utiliser une tournure à l'infinitif (ex. : Réceptionner un colis).
+Uploder Medias
 ## Objectif :
 uploader un media Objectif : les contributeur envoient un media ou des medias au site
 
