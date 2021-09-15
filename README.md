@@ -28,11 +28,11 @@ page Contribotor => Upload
 5. administrator valide les mots clé (a voir trop d'etape)
 6. le systeme demande si photo de face 	
 	 1. Oui demande d'autorisation droit a l'image
- 	 2. upload autorisation 
-  	3. attente validation
-  	4. soummission contrat de vente medias
-6.  non
- 	1. soummission contrat de vente medias 
+ 	 	1. upload autorisation 
+  		2. attente validation
+  		3. soummission contrat de vente medias6.  non
+
+	2. soummission contrat de vente medias 
 7. validation de données du formulaire par systeme front
 8. soumission du formulaire
 9.  A verification formulaire coté back validation données 
